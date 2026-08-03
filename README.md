@@ -33,11 +33,3 @@
 <img src="https://img.shields.io/badge/Minecraft-75A953?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft" />
 
 </div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yorokobi&show_icons=true&theme=dark&hide_border=true&bg_color=161b22" alt="GitHub Stats" />
-</div>

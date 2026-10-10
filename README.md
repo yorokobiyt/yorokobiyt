@@ -15,8 +15,8 @@
 
 ### 🚀 About Me
 
-* 🔭 Currently working on projects at [**CTRL Studios**](https://ctrlstudios.pages.dev/).
-* 🌱 Learning **JavaScript**, **Node.js**, web development, and server administration.
+* 🌱 Learning **JavaScript**, **Node.js**,**GO**, **Rust** ,web development, Distributed systems
+, Compiler internals and server administration.
 * 💻 I enjoy building tools, managing servers, and turning ideas into real projects.
 * 🤝 Always open to interesting projects and collaborations!
 

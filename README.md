@@ -15,7 +15,7 @@
 
 ### 🚀 About Me
 
-* 🌱 Learning **JavaScript**, **Node.js**,**GO**, **Rust**, web development, Distributed systems, Compiler internals and server administration.
+* 🌱 Learning **JavaScript**, **Node.js**, **GO**, **Rust**, web development, Distributed systems, Compiler internals and server administration.
 * 💻 I enjoy building tools, managing servers, and turning ideas into real projects.
 * 🤝 Always open to interesting projects and collaborations!
 

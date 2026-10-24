@@ -49,7 +49,7 @@
 
 ---
 
-## `$ github --stats`
+## `$ git --stats`
 
 <div align="center">
 

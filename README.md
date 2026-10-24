@@ -2,10 +2,6 @@
 
 # Hey, I'm Yorokobi 👋
 
-### IT Student · Developer · Linux Enthusiast
-
-Building projects, automating workflows, and exploring how things work under the hood.
-
 [![Status](https://img.shields.io/badge/Status-Building%20Something-7aa2f7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yorokobiyt)
 [![Focus](https://img.shields.io/badge/Focus-Development%20%26%20Infrastructure-bb9af7?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/yorokobiyt)
 [![Profile Views](https://komarev.com/ghpvc/?username=yorokobiyt&style=for-the-badge&color=565f89&label=PROFILE+VIEWS)](https://github.com/yorokobiyt)

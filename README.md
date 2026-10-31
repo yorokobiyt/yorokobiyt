@@ -47,7 +47,7 @@
 
 </div>
 
----
+<!-- ---
 
 ## `$ git --stats`
 
@@ -55,6 +55,6 @@
 
 <a href="https://github.com/yorokobiyt">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=yorokobiyt&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Yorokobi's GitHub Stats" />
-</a>
+</a> 
 
-</div>
+</div> -->
